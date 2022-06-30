@@ -7,5 +7,9 @@ Desafio proposto pela Let's Code de fazer um jogo da velha, com dois modos de jo
 
 
 
-https://user-images.githubusercontent.com/93089995/176792985-b40abd06-0aa1-40b9-a2f4-ba9457bc634c.mp4
+
+
+
+
+https://user-images.githubusercontent.com/93089995/176795128-656cf309-5e22-4da7-9f4e-8c55a40d094e.mp4
 
